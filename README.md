@@ -5,89 +5,70 @@ AI/ML Engineer • Full Stack Developer • Cybersecurity Enthusiast
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Web+Developer;Building+Intelligent+Systems;Exploring+LLMs+%26+Agentic+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Engineer;Building+Agentic+AI+Systems;Exploring+LLMs+and+Vector+Databases" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👩‍💻 About Me
 
-🎓 B.Tech CSE (AI & ML) — **VNR VJIET**  
+🎓 **B.Tech CSE (AI & ML)** — VNR VJIET  
 📊 CGPA: **9.10**
 
-💡 I enjoy building  
+💡 I enjoy building:
+
 • AI powered systems  
-• intelligent agents  
-• full stack applications  
-• data driven dashboards  
+• agent based architectures  
+• full stack web applications  
+• intelligent data systems  
 
 🔬 Currently exploring  
-**LLM systems • Vector databases • Agent workflows**
-
-📫 **Email:** ashrayasetty6@gmail.com
+**LLMs • LangGraph • Vector Databases • AI Agents**
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,sql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,express,mongodb,mysql,git,github,figma" />
 </p>
 
-### Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
-
-### AI / Data
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-`LangGraph` • `ChromaDB` • `NLP`
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,figma" />
-</p>
+AI / Data Tools  
+`LangGraph` • `ChromaDB` • `NLP` • `Streamlit` • `FastAPI`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 SEFS — Semantic Entropy File System
-AI powered semantic file manager using embeddings + clustering.
+### 🧠 Semantic Entropy File System
+AI powered file manager that organizes files using semantic similarity.
 
-**Tech:**  
-SentenceTransformers • DBSCAN • FastAPI • D3.js • CrewAI
+**Tech:** FastAPI • SentenceTransformers • DBSCAN • D3.js • CrewAI
 
 ---
 
-## 🤖 Token-Diet Agent
+### 🤖 Token Diet Agent
 Agentic AI pipeline reducing **LLM cost by 60–80%**
 
 Features:
-- LangGraph workflow
 - semantic token pruning
+- LangGraph workflow
 - RAG optimization
-- real-time analytics
+- analytics dashboard
 
 ---
 
-## 🛰 GeoSecureAI
-Crime forecasting dashboard with **85% prediction accuracy**
+### 🛰 GeoSecureAI
+Crime prediction dashboard with **85% accuracy**
 
-Built with:
-React • Data Analytics • Visualization
+**Tech:** React • Data Analytics • Visualization
 
 ---
 
-## 🏡 Wanderlust
-Full-stack accommodation booking platform.
+### 🏡 Wanderlust
+Full stack accommodation booking platform
 
-Tech:
-Node.js • Express • MongoDB • Cloudinary • EJS
+**Tech:** Node.js • Express • MongoDB • Cloudinary • EJS
 
 ---
 
@@ -102,11 +83,9 @@ Node.js • Express • MongoDB • Cloudinary • EJS
 
 # 🌍 Leadership
 
-**Google Developer Groups on Campus (GDGC)**  
-Testing & Cybersecurity Coordinator  
+Google Developer Groups on Campus — **Cybersecurity & Testing Coordinator**
 
-**Internet Society (ISOC)**  
-Event Management Head  
+Internet Society (ISOC) — **Event Management Head**
 
 ---
 
@@ -114,33 +93,34 @@ Event Management Head
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashrayayelisetty&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ashrayayelisetty&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrayayelisetty&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrayayelisetty&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# ⚡ Coding Mode
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrayayelisetty&theme=tokyo-night"/>
-
----
-
-# 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
 
 ---
 
 # 🤝 Connect With Me
 
-<p>
-<a href="https://github.com/ashrayayelisetty">GitHub</a> |
-<a href="mailto:ashrayasetty6@gmail.com">Email</a>
+<p align="center">
+<a href="mailto:ashrayasetty6@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ashrayayelisetty">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-⭐ Always building. Always learning.
+⭐ *Always learning. Always building.*
