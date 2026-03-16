@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ashraya%20Yelisetty&fontSize=40&fontColor=ffffff"/>
 <h1 align="center">Hi 👋, I'm Ashraya Yelisetty</h1>
 
 <p align="center">
@@ -92,8 +93,6 @@ Internet Society (ISOC) — **Event Management Head**
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashrayayelisetty&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrayayelisetty&layout=compact&theme=tokyonight&hide_border=true"/>
 
